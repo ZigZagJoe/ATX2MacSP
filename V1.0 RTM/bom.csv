@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,Molex_Mini-Fit_Jr_5566-24A_2x12_P4.20mm_Vertical,1,Conn_02x12_Top_Bottom,
+J2,Molex_Mini-Fit_Jr_5566-10A2_2x05_P4.20mm_Vertical,1,Conn_02x05_Top_Bottom,
+J3,Samtec_HPM-04-05-x-S_Straight_1x04_Pitch5.08mm,1,Conn_01x04_Pin,
+J4,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_Pin,
+M1,FanPinHeader_1x03_P2.54mm_Vertical,1,Fan_3pin,
+Q1,TO-92L_Inline_Wide,1,Q_NPN_EBC,
+R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,1K,
+R2,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,10K,
